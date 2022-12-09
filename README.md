@@ -1,11 +1,10 @@
-# counter
+# Contador Básico em Javascript
 
 
 ![preview](./preview.png)
 
-> Trilha 
 
-Projeto 
+Projeto Contador 
 
 [clique aqui para acessar](https://rodrigomlucas.github.io/counter)
 
@@ -14,7 +13,7 @@ Projeto
 
 - HTML
 - CSS
-- Git e GitHub
+- Javascript
 
 
 ## Contato
