@@ -1,7 +1,7 @@
 # counter
 
 
-![preview](./previewatual.png)
+![preview](./preview.png)
 
 > Trilha 
 
